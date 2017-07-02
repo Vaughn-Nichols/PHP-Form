@@ -5,7 +5,7 @@
 
 <?php
 
-$from="test@vaughn_nichols@hotmail.com";
+$from="vaughn_nichols@hotmail.com";
 $email=$_POST['email'];
 $subject=$_POST['subject'];
 $message=$_POST['message'];
